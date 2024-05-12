@@ -1,5 +1,7 @@
 # i hate jane plate
 
+https://janeplate.hali.studio
+
 ## what is it 
 jane plate files that i made from scratch for people to use for cad. also functional for production 
 
