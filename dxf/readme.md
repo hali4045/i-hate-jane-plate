@@ -6,7 +6,7 @@
 - tsangan (optional): extremely restrictive layout in the config that the keyboard should be built 
 
 <details>
-  <summary>if you don't see the config you'd like, feel free to reach out at hali4045 on discord or in my [server](https://discord.gg/7DPmuRGE9F) to ask questions or request a modification</summary>
+  <summary>if you don't see the config you'd like, feel free to reach out at hali4045 on discord or in my <a href="https://discord.gg/7DPmuRGE9F" target="_blank">server</a> to ask questions or request a modification</summary>
 
   or just fix it yourself
   
