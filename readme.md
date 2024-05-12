@@ -57,3 +57,5 @@ however during filleting i changed the radius of the convex fillets to 1.5 mm up
 after this all that was left was the usb cutout and corner chamfers and the jane plate is now normal 
 
 end rant 
+
+these files have not been prototyped, and i am not responsible for reimbursement if they do not work. 
